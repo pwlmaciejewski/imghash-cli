@@ -28,5 +28,13 @@
     "hooks": {
       "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
     }
-  }
+  },
+  "keywords": [
+    "perceptual",
+    "image",
+    "hash",
+    "phash",
+    "imgseek",
+    "cli"
+  ]
 }
