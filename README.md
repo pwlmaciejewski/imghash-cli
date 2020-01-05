@@ -4,7 +4,7 @@
 # installation
 
 ```sh
-npm i -g imghash-cli imghash
+npm i -g imghash-cli
 ```
 
 # usage
