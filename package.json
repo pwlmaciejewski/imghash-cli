@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "@commitlint/cli": "^8.3.4",
-    "@commitlint/config-conventional": "^8.3.4",
+    "@commitlint/config-conventional": "^9.1.2",
     "husky": "^3.1.0",
     "yargs": "^15.1.0"
   },
