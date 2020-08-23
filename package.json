@@ -16,7 +16,7 @@
   "author": "Paweł Maciejewski <1276139+pwlmaciejewski@users.noreply.github.com>",
   "license": "MIT",
   "devDependencies": {
-    "prettier": "^1.19.1"
+    "prettier": "^2.0.5"
   },
   "scripts": {
     "test": "prettier -c index.js"
